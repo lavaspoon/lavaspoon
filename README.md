@@ -10,6 +10,5 @@
 <img src="https://img.shields.io/badge/Oracle-339933?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-1572B6?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavaspoon&show_icons=true&theme=radical)
 
